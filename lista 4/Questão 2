@@ -1,0 +1,10 @@
+//ALUNO : Pedro Kartenelly Martins Xavier TURMA: Informática 2023
+// 2. Faça um programa que leia uma string e imprima as quatro primeiras letras dela.
+#include <iostream>
+#include <cstring>
+#include <cstdlib>
+using namespace std;
+int main() {
+string s2="eajurfrnif23";
+ cout << s2[0] << s2[1] << s2[2]<< s2[3];
+}
