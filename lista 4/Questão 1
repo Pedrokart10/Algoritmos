@@ -1,0 +1,10 @@
+//ALUNO : Pedro Kartenelly Martins Xavier TURMA: Informática 2023
+// Questão 1: Faça um programa que leia uma string e a imprima na tela.
+#include <iostream>
+#include <cstring>
+#include <cstdlib>
+using namespace std;
+int main() {
+string s2="eajurfrnif23";
+ cout << s2;
+}
